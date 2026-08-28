@@ -1,2 +1,2 @@
 # The-Memento-Mori-Calendar
-The is a Memento Mori Calendar
+This is a Memento Mori Calendar
